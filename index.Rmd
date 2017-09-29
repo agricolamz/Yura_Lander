@@ -1,0 +1,324 @@
+---
+title: "Секретный раздел"
+date: "2017/09/29 <br> Экспедиционный вечер <br> Школы лингвистики НИУ ВШЭ"
+output:
+  xaringan::moon_reader:
+    css: ["default", "my_theme.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(echo = FALSE,
+                      message=FALSE,
+                      warning= FALSE,
+                      fig.width=10.4,
+                      fig.height=7)
+library(tidyverse)
+library(lingtypology)
+```
+
+# Яна
+
+Юра, оставайтесь таким же невыразимо прекрасным.
+
+---
+# Стёпа
+
+Помню, в конце первого курса я поехал на свой первый пикник и много расспрашивал там старшекурсников про то, с кем и каково писать курсовые. И вот говорят: "Курсовая с Юрием Александровичем это что-то совершенно другое! Вот есть у тебя какая-то трудность, приходишь с ней к нему, а он говорит: "Стёпа, посмотрите в окно! Видите? Птица летит!". И тогда тебе становится понятно, что именно надо делать!"
+Мне кажется, что потом уже (вернее теперь), когда я знаю Юрия Александровича гораздо лучше я могу сказать, что эта история очень хорошо описывает одну из его золотых черт. Это какое-то лёгкое волшебное несколько юмористическое спокойствие, такой дзен. И Юрий Александрович волшебным образом распространяет его вокруг себя, повергая всех затронутых в блаженство!
+В общем, огромное спасибо, Юрий Александрович! Учёба с Вами и из-за Вас становится совершенно тропическим удовольствием / горной медитацией, а это, как мне кажется, очень важное свойство!
+Счастья, здоровья!
+
+---
+# Наташа Слюсарь
+
+Прежде чем увидеть самого Юру, я видела несколько его статей и хендаутов. И, не знаю уж почему, мне казалось, что Юра — очень суровый человек, даже с оттенком непримиримости. А оказалось, всё совсем наоборот. Юра, сложно быть лучше, так что просто будь таким же еще много-много лет :)
+
+---
+# Свинья
+
+Хрю-хрю!
+
+---
+# Даня
+
+Желаю однажды выспаться! А что еще можно пожелать академическому руководителю бакалавриата? :)
+
+---
+# Газарян Арпи 
+
+С днем рождения!
+Желаю самого наилучшего, чтоб в Вашей жизни всё было так как Ваше сердце пожелает.
+
+---
+# Маша Шеянова
+
+Юрий Александрович, я очень люблю атмосферу ламповости, которую Вы так хорошо создаёте. А ещё меня всегда вдохновляло Ваше умение подойти к проблеме с неожиданной стороны, например, доказать, что её, на самом деле, не существует. :)
+
+---
+# АШ
+
+Дорогой Юра, я как-то замотался и не поздравил день в день, хоть и помню про твой др! Но я же не помню про цифры, и ну ведь их! Ты классный, жалко, что общаемся так редко!
+
+---
+
+Юран, с юбилеем!
+
+---
+
+Слуш-ка, с дырой!
+
+---
+
+Юрий Александрович, вы помогаете нам найти себя (пусть даже и не в лингвистике). Спасибо.
+
+
+---
+
+#  Гарик
+
+Юрка, я дарю тебе [список вопросов и комментариев](https://docs.google.com/spreadsheets/d/1hjQJCXH6_rwYJoVKXDsUBNQrQVEky-xT9TCxqjFqZJg/edit?usp=sharing) к твоей книге!
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/1.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/2.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/3.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/4.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/5.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/6.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/7.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/8.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/9.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/10.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/11.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/12.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/13.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/14.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/15.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/16.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/17.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/18.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/19.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/20.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/21.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/22.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/23.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/24.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/25.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/26.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/27.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/28.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/29.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/30.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/31.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/32.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/33.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/34.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/35.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/36.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/37.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/38.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/39.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/40.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/41.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/42.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/43.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/44.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/45.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/46.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/47.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/48.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/49.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/50.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/51.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/52.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/53.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/54.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/55.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/56.jpg)
+
+---
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/57.jpg)
+
+---
+
+
+class: center, middle
+
+# Спасибо за внимание!
+
+Наша презентация на GitHub:
+
+<https://agricolamz.github.io/2017_Zilo_fieldwork_prezi>
